@@ -42,3 +42,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'graphql'
+gem 'faker', :git => 'https://github.com/faker-ruby/faker.git', :branch => 'master'
